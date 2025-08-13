@@ -1,2 +1,2 @@
 # Python-projects
-Just a collection od uni projects
+Just a collection of uni projects
